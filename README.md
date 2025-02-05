@@ -1,4 +1,3 @@
-```markdown
 # Tweet Sentiment Analysis
 
 A Python-based machine learning project to predict the sentiment of tweets as Negative (-1), Neutral (0), or Positive (1).
