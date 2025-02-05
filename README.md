@@ -85,4 +85,3 @@ A Python-based machine learning project to predict the sentiment of tweets as Ne
 
 ## License
 MIT License. See `LICENSE` for details.
-```
