@@ -70,7 +70,7 @@ A Python-based machine learning project to predict the sentiment of tweets as Ne
 | **0**              | 324  | 10565 | 178   |
 | **1**              | 1182 | 1163  | 12030 |
 
-![Confusion Matrix](image.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ## Code Structure
 1. **Text Preprocessing**:
